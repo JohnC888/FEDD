@@ -1,6 +1,6 @@
-# [Product Name Here]
+# [2025 FEDD Project - Smart Sensing]
 
-![Product Image](path/to/your/image.png)
+![Poster](Poster.jpg)
 
 A smart vision-based solution for detecting room activity and controlling lighting automatically.
 
