@@ -59,14 +59,6 @@ To replicate the hardware:
 
 ---
 
-## 🖼️ Adding an Image
-
-To display an image at the top of this README:
-1. Place the image in your repository (e.g., in an `assets/` folder).
-2. Replace the placeholder path above (`path/to/your/image.png`) with the correct relative path or a direct image URL.
-
----
-
 ## 📌 Note
 
 This project uses [Ultralytics YOLO](https://github.com/ultralytics/ultralytics), which is licensed under **AGPL-3.0**. Be sure to comply with the terms if you plan to host, distribute, or commercialize a modified version of this product.
